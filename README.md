@@ -1,59 +1,64 @@
-# Resource Allocation Sheet - RV Media Mobile Application (4 Month Timeline)
+# Resource Allocation Sheet - RV Media Mobile Application
+### 4-Month Timeline (16 Weeks)
 
 ## Project Milestones and Resource Allocation
 
 ### Milestone 1: Discovery & Requirement Gathering (2 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| Product Manager (1) | Market Research, RV Industry Analysis, Requirements Documentation | 40 | $35 | $1,400 |
-| Project Manager (1) | Agile Methodology, Resource Planning, Risk Management | 30 | $30 | $900 |
+| Product Manager (1) | Market Research, Requirements Documentation | 40 | $35 | $1,400 |
+| Project Manager (1) | Agile Methodology, Resource Planning | 30 | $30 | $900 |
 | **Milestone 1 Total** | | | | **$2,300** |
 
 ### Milestone 2: UI/UX Design & Prototyping (3 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| UI/UX Designer (2) | Figma, Adobe XD, Mobile App Prototyping, Wireframing | 150 | $30 | $4,500 |
-| Mobile UI Developer (1) | React Native/Flutter, Responsive Mobile Design | 60 | $25 | $1,500 |
+| UI/UX Designer (2) | Figma, Mobile App Prototyping | 150 | $30 | $4,500 |
+| Mobile UI Developer (1) | React Native, Responsive Design | 60 | $25 | $1,500 |
 | **Milestone 2 Total** | | | | **$6,000** |
 
-### Milestone 3: Backend & Database Setup (4 Weeks - Parallel with UI/UX)
+### Milestone 3: Backend & Database Setup (4 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| Backend Developer (2) | AWS/Firebase, PostgreSQL, RESTful API Development | 180 | $30 | $5,400 |
-| Database Architect (1) | PostgreSQL, Firebase Firestore, Data Modeling | 80 | $35 | $2,800 |
-| DevOps Engineer (1) | Cloud Infrastructure, CI/CD Pipeline Setup | 40 | $30 | $1,200 |
+| Backend Developer (2) | AWS/Firebase, RESTful API Development | 180 | $30 | $5,400 |
+| Database Architect (1) | PostgreSQL, Data Modeling | 80 | $35 | $2,800 |
+| DevOps Engineer (1) | Cloud Infrastructure, CI/CD | 40 | $30 | $1,200 |
 | **Milestone 3 Total** | | | | **$9,400** |
+
+<div style="page-break-after: always;"></div>
 
 ### Milestone 4: Frontend Development - MVP Features (4 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| Mobile Developer (3) | React Native/Flutter, Cross-platform Development | 240 | $30 | $7,200 |
-| UI Implementation Specialist (1) | Mobile UI Components, Offline Mode | 100 | $25 | $2,500 |
-| Integration Developer (1) | Third-party API Integration (Maps, Payments) | 80 | $30 | $2,400 |
+| Mobile Developer (3) | React Native, Cross-platform Dev | 240 | $30 | $7,200 |
+| UI Implementation Specialist (1) | UI Components, Offline Mode | 100 | $25 | $2,500 |
+| Integration Developer (1) | Third-party API Integration | 80 | $30 | $2,400 |
 | **Milestone 4 Total** | | | | **$12,100** |
 
-### Milestone 5: Frontend Development - Enhancement Features (3 Weeks)
+### Milestone 5: Frontend Development - Enhancement (3 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| Mobile Developer (2) | Community Features, Maintenance Guides | 120 | $30 | $3,600 |
-| UI Implementation Specialist (1) | Advanced UI Components, Animations | 60 | $25 | $1,500 |
+| Mobile Developer (2) | Community Features, Maintenance | 120 | $30 | $3,600 |
+| UI Implementation Specialist (1) | Advanced UI Components | 60 | $25 | $1,500 |
 | **Milestone 5 Total** | | | | **$5,100** |
 
-### Milestone 6: Testing & Quality Assurance (3 Weeks - Overlapping)
+### Milestone 6: Testing & Quality Assurance (3 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| QA Engineer (3) | Mobile App Testing, Automated Testing | 180 | $25 | $4,500 |
-| Security Engineer (1) | OAuth 2.0 Implementation, Data Security | 50 | $35 | $1,750 |
+| QA Engineer (3) | Mobile App Testing, Automation | 180 | $25 | $4,500 |
+| Security Engineer (1) | OAuth 2.0, Data Security | 50 | $35 | $1,750 |
 | Performance Engineer (1) | App Optimization, Load Testing | 40 | $30 | $1,200 |
 | **Milestone 6 Total** | | | | **$7,450** |
+
+<div style="page-break-after: always;"></div>
 
 ### Milestone 7: Deployment & Post-launch Support (2 Weeks)
 | Role | Skills | Hours | Rate (USD) | Cost (USD) |
 |------|---------|-------|------------|------------|
-| DevOps Engineer (1) | App Store/Google Play Deployment, CI/CD | 40 | $30 | $1,200 |
+| DevOps Engineer (1) | App Store/Play Store Deployment | 40 | $30 | $1,200 |
 | Full Stack Developer (2) | Bug Fixes, Performance Tuning | 100 | $30 | $3,000 |
-| Support Engineer (1) | Initial Support Setup, Documentation | 30 | $25 | $750 |
-| Project Manager (1) | Client Communication, Release Management | 20 | $30 | $600 |
+| Support Engineer (1) | Support Setup, Documentation | 30 | $25 | $750 |
+| Project Manager (1) | Client Communication | 20 | $30 | $600 |
 | **Milestone 7 Total** | | | | **$5,550** |
 
 ## Project Cost Summary
@@ -70,6 +75,7 @@
 - **Month 4**: Complete All Features, Finalize Testing, Deployment, Initial Support
 
 ## Key Acceleration Strategies
+
 1. **Increased Parallel Development**:
    - Backend setup concurrent with UI/UX design
    - Testing activities begin during frontend development
